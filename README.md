@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![image](https://github.com/TechShreyash/AnimeDexLite/assets/82265247/f722db10-4fb5-4d9c-bb40-df599a250a90)
+![image](https://cdn.jsdelivr.net/gh/Kfnn12/Logo-test@main/homee.jpeg)
 
 ## Demo
 
