@@ -1,4 +1,4 @@
-const searchapi = "https://api.consumet.org/anime/gogoanime/demon?page=";
+const searchapi = "https://api.consumet.org/anime/gogoanime/demon?page=1";
 
 // Usefull functions
 
