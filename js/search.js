@@ -1,4 +1,4 @@
-const searchapi = "https://techzapi.up.railway.app/anime/gogoanime/";
+const searchapi = "https://animxer-api-nxqu.vercel.app/anime/gogoanime/";
 
 // Usefull functions
 
