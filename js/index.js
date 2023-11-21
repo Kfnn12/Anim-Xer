@@ -4,7 +4,7 @@ const trendingapi =
     "https://animxer-api-nxqu.vercel.app/meta/anilist/trending?perPage=10";
 const popularapi = "https://animxer-api-nxqu.vercel.app/anime/gogoanime/top-airing";
 const recentapi =
-    "https://techzapi.up.railway.app/anime/gogoanime/recent-episodes?page=";
+    "https://animxer-api-nxqu.vercel.app/anime/gogoanime/recent-episodes?page=";
 
 // Usefull functions
 
