@@ -1,10 +1,10 @@
 // Api urls
 
-const infoapi = "https://animxer-api-nxqu.vercel.app/anime/gogoanime/info/";
+const infoapi = "https://animxer-api-cvxg.vercel.app/anime/gogoanime/info/";
 const epapi = "https://api.techzbots1.workers.dev/gogo/episodes/";
-const searchapi = "https://animxer-api-nxqu.vercel.app/meta/anilist/";
-const anilistinfoapi = "https://animxer-api-nxqu.vercel.app/meta/anilist/info/";
-const gogosearchapi = "https://animxer-api-nxqu.vercel.app/anime/gogoanime/";
+const searchapi = "https://animxer-api-cvxg.vercel.app/meta/anilist/";
+const anilistinfoapi = "https://animxer-api-cvxg.vercel.app/meta/anilist/info/";
+const gogosearchapi = "https://animxer-api-cvxg.vercel.app/anime/gogoanime/";
 
 // Usefull functions
 
