@@ -1,7 +1,7 @@
 // Api urls
 
 const infoapi = "https://animxer-api-cvxg.vercel.app/anime/gogoanime/info/";
-const epapi = "https://animxer-api-cvxg.vercel.app/anime/gogoanime/recent-episodes/";
+const epapi = "https://api.anime-dex.workers.dev/episode/";
 const searchapi = "https://animxer-api-cvxg.vercel.app/meta/anilist/";
 const anilistinfoapi = "https://animxer-api-cvxg.vercel.app/meta/anilist/info/";
 const gogosearchapi = "https://animxer-api-cvxg.vercel.app/anime/gogoanime/";
