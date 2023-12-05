@@ -1,6 +1,6 @@
 const streamapi = "https://animxer-api-cvxg.vercel.app/anime/gogoanime/watch/";
 const serversapi = "https://animxer-api-cvxg.vercel.app/anime/gogoanime/servers/";
-const epapi = "https://animxer-api-cvxg.vercel.app/anime/gogoanime/episodes/";
+const epapi = "https://animxer-api-cvxg.vercel.app/anime/gogoanime/recent-episodes/";
 const dlapi = "https://animxer-api-cvxg.vercel.app/anime/gogoanime/dl/";
 
 // Usefull functions
